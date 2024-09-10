@@ -8,7 +8,7 @@ This repository contains examples of using resources related to the Devprime Str
 
 
 ### Checklist and preperation of the initial environment:
-- Open an account on the [Devprime platform](https://devprime.io) and purchase a [(Developer/Enterprise)] license(https://devprime.io/pricing).
+- Open an account on the [Devprime platform](https://devprime.io) and purchase a [Developer/Enterprise license](https://devprime.io/pricing).
 - Install an updated version of .NET (Linux, macOS, and Windows)
 - Install and/or update Visual Studio Code and/or Visual Studio and/or Rider .
 - Install and/or update docker (For Windows, use WSL2).
@@ -21,13 +21,14 @@ This repository contains examples of using resources related to the Devprime Str
 ### Example ready with all the steps of the article
 This article includes a complete project that demonstrates the feature discussed. You can choose to download it by following the steps below or simply proceed to the next items.
 
-1) Make a clone in the repo
+1) Make a clone in the repo.
 `git clone https://github.com/devprime/stream.git`
-2) Enter the folder 
+2) Enter the folder .
 `cd stream`
-3) Upgrade your Devprime license and Stack
+3) Upgrade your Devprime license and Stack.
 `dp stack`
-4) Update the MongoDB/RabbitMQ settings in the src/App/appsettings.json file
+4) Navigate to the folder related to the example of your interest.
+5) Update the MongoDB/RabbitMQ settings in the src/App/appsettings.json file.
 
 
 ### LEGAL INFORMATION
